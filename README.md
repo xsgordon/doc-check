@@ -1,6 +1,12 @@
 Author: Stephen Gordon <sgordon@redhat.com>
-Date: 16th March 2011
-Last Update: 24th March 2011
+Date: 31th May 2011
+
+License
+=======
+
+Creative Commons Attribution 3.0 Unported (CC BY 3.0):
+
+http://creativecommons.org/licenses/by/3.0/
 
 Purpose:
 ========
@@ -14,6 +20,10 @@ warnings indicating the results. Checks include:
 
 The script is able to operate either on a single DocBook XML file or on
 an entire Publican (http://fedorahosted.org/publican) book.
+
+A similar, but more advanced tool, is Igor:
+
+    https://docscripts.glenbarber.us/tags/igor/
 
 Prerequisites:
 ==============
