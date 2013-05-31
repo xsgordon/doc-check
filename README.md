@@ -25,6 +25,9 @@ A similar, but more advanced tool, is Igor:
 
     https://docscripts.glenbarber.us/tags/igor/
 
+At this time I am investigating the feasibility of packaging Igor for Fedora,
+in the mean time though I will continue to consider extensions to doc-check.
+
 Prerequisites:
 ==============
 
@@ -42,10 +45,10 @@ updated manually.
 Usage:
 ======
 
-qa_check.sh - Run from the root directory of a DocBook XML book (where
+doc-check.sh - Run from the root directory of a DocBook XML book (where
 publican.cfg resides).
 
-qa_check.sh /path/to/myxmlfile.xml - Check a single file.
+doc-check.sh /path/to/myxmlfile.xml - Check a single file.
 
 Change Log:
 ===========
