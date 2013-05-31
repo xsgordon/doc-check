@@ -50,12 +50,3 @@ Usage
 publican.cfg resides).
 
 **doc-check.sh** /path/to/myxmlfile.xml - Check a single file.
-
-Change Log
-==========
-
-16th March 2011    - Initial version committed.
-24th March 2011	   - Improved repetition check.
-21st April 2011    - Added support for scanning a single xml file.
-28th November 2011 - Added support for contraction detection.
-31st May 2013      - Moved to github.
